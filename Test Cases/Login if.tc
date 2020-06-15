@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login if</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5f88b25-c809-497f-925f-359eb05f7307</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1a2fe7d1-9b0a-4620-9eef-2cf06f1e85ec</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

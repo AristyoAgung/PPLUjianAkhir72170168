@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Insert Pasien Variabel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>337d3972-5775-486f-8d7c-1115bb1f91b6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eb12ff49-e899-48ff-b52c-83a6dce0ed8b</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5aba3d4-9c4b-48e2-bcb5-d683d7b17f96</id>
+      <masked>false</masked>
+      <name>nomorrekam</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>59b39c8a-943a-4210-880a-c11292efb40c</id>
+      <masked>false</masked>
+      <name>nomorhp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc8622c5-7e9f-4cb9-99c7-510c5bd36d57</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+</TestCaseEntity>
